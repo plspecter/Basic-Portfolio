@@ -1,3 +1,21 @@
+.TopLettering {
+    color: #666666
+
+}
+
+.MeBox {
+    background-color:#4aaaa5;
+    color:#ffffff;
+    font-size: 30px;
+    padding: 0px;
+    height: 80px;
+    width: 200px;
+    position: relative;
+    left: 150px;
+    
+
+}
+
 .whiterec {
     background-color:#ffffff;
     height: 80px;
@@ -24,7 +42,7 @@ body {
 
 h1 {
     color:#4aaaa5;
-    background-color: #ffffff;
+
 }
 
 p {
