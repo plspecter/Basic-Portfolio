@@ -1,3 +1,41 @@
+#About2 {
+    color: #666666;
+   position: absolute;
+   right: 300px;
+   top: 100px;
+   
+}
+
+#Portfolio2 {
+    color: #666666;
+   position: absolute;
+   right: 200px;
+   top: 100px;
+   
+}
+
+#Contact2 {
+    color: #666666;
+   position: absolute;
+   right: 100px;
+   top: 100px;
+   
+}
+
+
+
+
+
+.ContactInfo {
+    background-color:#ffffff;
+    width: 800px;
+    height: 500px;
+    position: absolute;
+    top: 180px;
+    left: 150px;
+}
+
+
 /*index.html btwn contact.html*/
 
 #About {
