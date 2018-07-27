@@ -19,6 +19,7 @@
    position: absolute;
    right: 100px;
    top: 100px;
+  
    
 }
 
@@ -33,6 +34,7 @@
     position: absolute;
     top: 180px;
     left: 150px;
+    padding: 20px
 }
 
 
@@ -104,15 +106,19 @@ h1 {
 
 }
 
-p {
+.AboutInfo {
     color: #777777;
     background-color: #ffffff;
     width: 960px;
-    padding: 20px
+    padding: 20px;
+    position: absolute;
+   right: 100px;
+   top: 100px;
   
 }
 
 #img {
-    width: 150px
+    width: 250px;
+    float: left;
 
 }
