@@ -1,6 +1,25 @@
+.whiterec {
+    background-color:#ffffff;
+    height: 80px;
+}
 
+
+.greenrec {
+    background-color:#4aaaa5;
+    height: 10px;
+}
+
+.rectangle {
+    background-color: #666666;
+    height: 50px;
+    margin: 0;
+    padding: 0;
+
+
+}
 body {
-    background-image: url("https://images.freecreatives.com/wp-content/uploads/2015/04/white-linen-background.jpg")
+    background-image: url("https://images.freecreatives.com/wp-content/uploads/2015/04/white-linen-background.jpg");
+    margin: 0;
 }
 
 h1 {
@@ -13,6 +32,7 @@ p {
     background-color: #ffffff;
     width: 960px;
     padding: 20px
+  
 }
 
 #img {
