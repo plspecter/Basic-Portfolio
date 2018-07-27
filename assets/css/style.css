@@ -1,6 +1,27 @@
-.TopLettering {
-    color: #666666
+/*index.html btwn contact.html*/
 
+#About {
+    color: #666666;
+   position: absolute;
+   right: 300px;
+   top: 50px;
+   
+}
+
+#Portfolio {
+    color: #666666;
+   position: absolute;
+   right: 200px;
+   top: 50px;
+   
+}
+
+#Contact {
+    color: #666666;
+   position: absolute;
+   right: 100px;
+   top: 50px;
+   
 }
 
 .MeBox {
