@@ -1,3 +1,93 @@
+#hangman {
+    background-color: #4aaaa5;
+    width: 400px;
+    height: 100px;
+    color: white;
+    position: absolute;
+    top: 380px;
+    left: 20px;
+    overflow: hidden;
+    z-index: -1;
+
+}
+
+
+#img5{
+    float: right;
+    position: absolute;
+    width: 30%;
+    right: 160px;
+    bottom: 232px;
+  
+}
+
+#img4{
+    float: absolute;
+    width: 30%;
+    right: 0;
+    height: 100px;
+  
+}
+
+#img3{
+    float: relative;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 30%;
+
+}
+
+#img2{
+    float:left;
+    width: 30%;
+    position: relative;
+    left: 170px;
+}
+
+#img1{
+    float:left;
+    width: 30%;
+    height: 100px;
+    
+}
+
+
+.PortfolioInfo {
+    background-color:#ffffff;
+    width: 800px;
+    height: 700px;
+    position: absolute;
+    top: 180px;
+    left: 150px;
+    padding: 20px
+}
+
+
+/*btwn contact and portfolio*/ 
+
+#submit {
+    height: 50px;
+    width: 100px;
+    background-color: #4aaaa5;
+    color: white;
+    position: absolute;
+    left: 170px;
+    bottom: -87px;
+    font-size: 15px;
+
+}
+
+input[type=text] {
+    width: 800px;
+    height: 20px
+}
+
+input[type=comments] {
+    width: 800px;
+    height: 200px
+}
+
 #About2 {
     color: #666666;
    position: absolute;
@@ -73,6 +163,9 @@
     width: 200px;
     position: relative;
     left: 150px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 80px;
     
 
 }
