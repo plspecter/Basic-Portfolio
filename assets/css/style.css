@@ -1,40 +1,25 @@
-#hangman {
-    background-color: #4aaaa5;
-    width: 400px;
-    height: 100px;
-    color: white;
-    position: absolute;
-    top: 380px;
-    left: 20px;
-    overflow: hidden;
-    z-index: -1;
-
-}
-
-
 #img5{
-    float: right;
+    float: left;
     position: absolute;
     width: 30%;
-    right: 160px;
-    bottom: 232px;
+    right: 570px;
+    bottom: 130px;
   
 }
 
 #img4{
-    float: absolute;
-    width: 30%;
-    right: 0;
-    height: 100px;
+    position: absolute;
+    left: 260px;
+    top: 340px;
   
 }
 
 #img3{
-    float: relative;
-    position: relative;
-    bottom: 0;
-    left: 0;
-    width: 30%;
+    float: static;
+    position: absolute;
+    top: 340px;
+    left: 20px;
+
 
 }
 
@@ -42,21 +27,38 @@
     float:left;
     width: 30%;
     position: relative;
-    left: 170px;
+    left: 0px;
 }
 
-#img1{
+.container{
     float:left;
+    position: relative;
     width: 30%;
     height: 100px;
     
+}
+
+.textblock {
+    background-color: #4aaaa5;
+    width: 200px;
+    height: 45px;
+    color: white;
+    position: absolute;
+    top: 95px;
+    left: 0px;
+    text-align: center;
+    line-height: 15px;
+    font-family: "Georgia, Times, Times New Roman, serif";
+    font-size: 12px;
+    
+
 }
 
 
 .PortfolioInfo {
     background-color:#ffffff;
     width: 800px;
-    height: 700px;
+    height: 750px;
     position: absolute;
     top: 180px;
     left: 150px;
@@ -196,6 +198,8 @@ body {
 
 h1 {
     color:#4aaaa5;
+    position: relative;
+    bottom: 10px;
 
 }
 
